@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Laravel]https://laravel.com/
+- 🔭 I’m currently working on [Laravel](https://laravel.com/)
 - 🌱 I’m currently learning [Nest.Js]
 - 👯 I’m looking to collaborate on [Laravel] 
 - 🤔 I’m looking for help with ...

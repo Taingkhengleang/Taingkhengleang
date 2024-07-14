@@ -8,7 +8,7 @@ I'm a Laravel Backend & API developer from Cambodia 🇰🇭
 
 - 💼 Laravel API Developer at [Uvacancy](https://uvacancy.com/)
 
-- ❤️ I love writing PHP, TypeScript.
+- ❤️ I'm a Backend Developer PHP, Laravel, NodeJs, NestJs, Typescript.
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 

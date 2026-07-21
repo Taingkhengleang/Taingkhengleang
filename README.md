@@ -6,7 +6,7 @@ I'm a Laravel Backend & API developer from Cambodia 🇰🇭
 
 **About me**
 
-- 💼 Laravel API Developer at [Uvacancy](https://uvacancy.com/)
+- 💼 Laravel API Developer at [Uvacancy]
 
 - ❤️ I'm a Backend Developer PHP, Laravel, NodeJs, NestJs, Typescript.
 
